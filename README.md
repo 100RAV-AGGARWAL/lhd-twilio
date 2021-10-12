@@ -1,2 +1,3 @@
 # lhd-twilio
-chat project
+chat project - where we can send and receive sms
+
